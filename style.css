@@ -413,13 +413,15 @@ body {
 }
 
 .contact_sticker_blue {
-    left: 18%;
-    bottom: 100px;
+    left: 50%;
+    transform: translateX(-380px);
+    bottom: 80px;
 }
 
 .contact_sticker_red {
-     right: 18%;
-     top: 100px;
+     left: 50%;
+     transform: translateX(330px);
+     top: 70px;
 }
 
 /* --------------------------------
